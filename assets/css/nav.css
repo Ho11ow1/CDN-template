@@ -95,11 +95,11 @@
         position: fixed;
         top: -100%;
         left: 0;
-        background-color: var(--body-colour);
+        background-color: var(--dark-white);
         width: 100%;
         padding: 4rem 0 3rem;
         transition: .4s;
-        box-shadow: 0 1px 12px hsla(0, 0%, 20%, 0.1);
+        box-shadow: 0 1px 12px hsla(0, 0%, 20%, 0.5);
     }
     .nav-menu.show-menu{
         top: 0;
